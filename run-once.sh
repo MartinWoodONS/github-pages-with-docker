@@ -49,6 +49,7 @@ echo ".sass-cache/" >> $GITIGNORE
 echo ".jekyll-cache/" >> $GITIGNORE
 echo ".jekyll-metadata" >> $GITIGNORE
 echo ".bundle/" >> $GITIGNORE
+echo ".vscode/" >> $GITIGNORE
 echo "vendor/" >> $GITIGNORE
 echo "**/.DS_Store" >> $GITIGNORE
 
